@@ -18,7 +18,7 @@
   🛠 Frameworks/Library:
 </p>
 
-![My Skills](https://skills.thijs.gg/icons?i=figma&theme=dark)
+![My Skills](https://skills.thijs.gg/icons?i=figma,ps&theme=dark)
 
 <p align="left">
   💼 Ferramentas: <strong>VSCode</strong>
