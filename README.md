@@ -1,16 +1,25 @@
-### Hi there 👋
+<div>
+  <img align="right" style="float: right" src="https://i.pinimg.com/originals/84/e8/47/84e84792bd2f7489443c4bdbc20e182c.png" alt="Ilustração programador" width="400px" height="400px">
 
-<!--
-**yokufelpo/yokufelpo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p align="left"> 
+   😃 Olá! Meu nome é Felipe Balbino, sou estudante de programação com foco em me tornar um programador <strong>Full Stack</strong>.<br>
+   Atualmente estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> no <strong>IMEPAC(Instituto Master de Ensino Presidente Antônio Carlos) Centro Universitário</strong>.
+  </p>
+</div>
 
-Here are some ideas to get you started:
+<p align="left">
+  👨‍💻 Linguagens:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![My Skills](https://skills.thijs.gg/icons?i=html,css&theme=dark)
+
+
+<p align="left">
+  🛠 Frameworks/Library:
+</p>
+
+![My Skills](https://skills.thijs.gg/icons?i=figma&theme=dark)
+
+<p align="left">
+  💼 Ferramentas: <strong>VSCode</strong>
+</p>
