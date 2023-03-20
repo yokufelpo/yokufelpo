@@ -11,7 +11,7 @@
   👨‍💻 Linguagens:
 </p>
 
-![My Skills](https://skills.thijs.gg/icons?i=html,css&theme=dark)
+![My Skills](https://skills.thijs.gg/icons?i=html,css,java,mysql&theme=dark)
 
 
 <p align="left">
